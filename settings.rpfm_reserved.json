@@ -1,0 +1,8 @@
+{
+  "settings_text": {
+    "import_files_to_ignore": ".vscode\n.git\ntranslation_compilation_spanish.sublime-project\ntranslation_compilation_spanish.sublime-workspace\nsource_files/\n.luarc.json"
+  },
+  "settings_string": {},
+  "settings_bool": {},
+  "settings_number": {}
+}
