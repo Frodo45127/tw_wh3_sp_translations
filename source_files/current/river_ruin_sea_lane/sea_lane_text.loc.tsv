@@ -1,0 +1,4 @@
+key	text	tooltip
+#Loc;1;text/sea_lane_text.loc		
+teleportation_node_templates_localised_name_tp_main_teleportation_node_template_darkland_canal	River Ruin Sea Lane	true
+teleportation_node_templates_description_tp_main_teleportation_node_template_darkland_canal	The River Ruin can be traversed by any [[img:icon_general]][[/img]]Lord or [[img:icon_hero]][[/img]]Hero for direct travel between [[col:magic]]The Sea of Chaos[[/col]] and [[col:magic]]The Sea of Dread[[/col]].{{tr:sea_lane_travel_node_tooltip}}	true

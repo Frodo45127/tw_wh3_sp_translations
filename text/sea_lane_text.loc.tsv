@@ -1,0 +1,4 @@
+key	text	tooltip
+#Loc;1;text/sea_lane_text.loc		
+teleportation_node_templates_localised_name_tp_main_teleportation_node_template_darkland_canal	Ruta marítima del Río de la Ruina	true
+teleportation_node_templates_description_tp_main_teleportation_node_template_darkland_canal	Cualquier [[img:icon_general]][[/img]]Señor o [[img:icon_hero]][[/img]]héroe puede usar esta ruta marítima usando el Río de la Ruina para viajar directamente entre el [[col:magic]]Mar del Caos[[/col]] y el [[col:magic]]Mar del Terror[[/col]].{{tr:sea_lane_travel_node_tooltip}}	true
