@@ -1,8 +1,11 @@
 {
   "settings_text": {
-    "import_files_to_ignore": ".vscode\n.git\ntranslation_compilation_spanish.sublime-project\ntranslation_compilation_spanish.sublime-workspace\nsource_files/\n.luarc.json\n.gitignore"
+    "diagnostics_files_to_ignore": "",
+    "import_files_to_ignore": "\n@spanish_translation_compilation.sublime-project\n@spanish_translation_compilation.sublime-workspace\nsource_files/\n.luarc.json\n.git"
   },
   "settings_string": {},
-  "settings_bool": {},
+  "settings_bool": {
+    "disable_autosaves": false
+  },
   "settings_number": {}
 }
