@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/db/deco_boss_ancillaries__.loc		
+ancillaries_colour_text_wh_main_anc_mount_grn_orc_boss_war_boar	Los Javalíes de Guerra sólo pueden ser encontrados en los asperos y escabrosos terrenos de las Tierras Yermas.	true
+ancillaries_onscreen_name_wh_main_anc_mount_grn_orc_boss_war_boar	Javalí de Guerra	true
+ancillaries_colour_text_wh_main_anc_mount_grn_savage_boss_war_boar	Los Javalíes de Guerra sólo pueden ser encontrados en los asperos y escabrosos terrenos de las Tierras Yermas.	true
+ancillaries_onscreen_name_wh_main_anc_mount_grn_savage_boss_war_boar	Javalí de Guerra	true

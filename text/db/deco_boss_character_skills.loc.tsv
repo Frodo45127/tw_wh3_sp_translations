@@ -1,0 +1,14 @@
+key	text	tooltip
+#Loc;1;text/db/deco_boss_character_skills.loc		
+character_skills_localised_name_grn_passive_aggression	Agresión brutal	true
+character_skills_localised_name_grn_passive_fury	Furia salvaje	true
+character_skills_localised_description_grn_passive_aggression	Los aguerridos Grandes Jefes son conocidos por sus brutales ataques.	true
+character_skills_localised_description_grn_passive_fury	La ferocidad de los Grandes jefes Orcos Zalvajes en batalla es inigualable.	true
+character_skills_localised_name_wh_main_skill_grn_orc_boss_boar	Javalí de Guerra	true
+character_skills_localised_name_wh_main_skill_grn_savage_boss_boar	Javalí de Guerra	true
+character_skills_localised_description_wh_main_skill_grn_orc_boss_boar	Los Javalíes de Guerra sólo pueden ser encontrados en los asperos y escabrosos terrenos de las Tierras Yermas.	true
+character_skills_localised_description_wh_main_skill_grn_savage_boss_boar	Los Javalíes de Guerra sólo pueden ser encontrados en los asperos y escabrosos terrenos de las Tierras Yermas.	true
+character_skills_localised_description_wh2_dlc15_skill_grn_champion_unique_orc_boss_gather_da_boyz	"¡A por elloz, chicoz!"	true
+character_skills_localised_name_wh2_dlc15_skill_grn_champion_unique_orc_boss_gather_da_boyz	¡Reune a loz chicoz!	true
+character_skills_localised_name_wh2_dlc15_skill_grn_champion_unique_savage_orc_boss_gather_da_boyz	¡Reune a laz tribuz!	true
+character_skills_localised_description_wh2_dlc15_skill_grn_champion_unique_savage_orc_boss_gather_da_boyz	"¡No tomeiz prizioneroz, chicoz!"	true

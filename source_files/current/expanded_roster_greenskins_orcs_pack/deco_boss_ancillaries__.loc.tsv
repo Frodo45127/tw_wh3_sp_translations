@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/db/deco_boss_ancillaries__.loc		
+ancillaries_colour_text_wh_main_anc_mount_grn_orc_boss_war_boar	The War Boars can be found almost exclusively in the harsh rugged regions of the Badlands.	true
+ancillaries_onscreen_name_wh_main_anc_mount_grn_orc_boss_war_boar	War Boar	true
+ancillaries_colour_text_wh_main_anc_mount_grn_savage_boss_war_boar	The War Boars can be found almost exclusively in the harsh rugged regions of the Badlands.	true
+ancillaries_onscreen_name_wh_main_anc_mount_grn_savage_boss_war_boar	War Boar	true

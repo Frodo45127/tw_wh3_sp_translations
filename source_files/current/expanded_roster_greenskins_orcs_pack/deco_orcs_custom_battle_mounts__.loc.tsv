@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/db/deco_orcs_custom_battle_mounts__.loc		
+units_custom_battle_mounts_mount_name_wh_grn_orc_bosswh_grn_orc_boss_boar	Warboar	true
+units_custom_battle_mounts_mount_name_wh_grn_savage_bosswh_grn_savage_boss_boar	Warboar	true
+units_custom_battle_mounts_localised_description_wh_grn_orc_bosswh_grn_orc_boss_boar	These large and aggressive beasts can be found almost exclusively in the harsh rugged regions of the Badlands. 	true
+units_custom_battle_mounts_localised_description_wh_grn_savage_bosswh_grn_savage_boss_boar	These large and aggressive beasts can be found almost exclusively in the harsh rugged regions of the Badlands.	true

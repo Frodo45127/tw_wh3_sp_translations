@@ -1,0 +1,13 @@
+key	text	tooltip
+#Loc;1;text/db/deco_orcs_unit_description_short_texts.loc		
+unit_description_short_texts_text_wh_main_unit_short_text_grn_inf_savage_big_great	The true elite of the Savage Orcs. Wielding large bone clubs to crack some skullz.	true
+unit_description_short_texts_text_wh_grn_orc_boss	Orcs are led by the biggest and brawniest of their kind.	true
+unit_description_short_texts_text_wh_main_unit_short_text_wh_grn_orc_boss_boar	Orcs are led by the biggest and brawniest of their kind.	true
+unit_description_short_texts_text_wh_main_unit_short_text_grn_inf_orc_boyz_spear	Orc Boyz call every weapon a "choppa" even the long pointy-ones.	true
+unit_description_short_texts_text_savage_giant	If a giant finds itself among a horde of savage orcs it will usually adopt their customs and be given their war paints.	true
+unit_description_short_texts_text_wh_main_unit_short_text_grn_inf_black_orc_dual	Give a Black Orc two weapons, and watch the carnage they create double itself.	true
+unit_description_short_texts_text_wh_main_unit_short_text_grn_inf_savage_orc_spear	Even with primitive wooden shields and spears reinforced with bone, these savage brutes are "readi for 'scrappin".	true
+unit_description_short_texts_text_savage_orc_boss	Bound in huge bulging muscles, the Savage Orc Big Boss wades through battle hacking off heads and limbs.	true
+unit_description_short_texts_text_wh_main_unit_short_text_grn_inf_black_orc_shields	"Now den, some times what da boyz need is a lad what can take a beating, and beat back! Dey need a lad wif a serious pair of tusks! Dem need a Black Orc!"	true
+update	update	false
+update2	update2	false

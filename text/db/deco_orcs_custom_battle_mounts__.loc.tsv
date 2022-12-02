@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/db/deco_orcs_custom_battle_mounts__.loc		
+units_custom_battle_mounts_mount_name_wh_grn_orc_bosswh_grn_orc_boss_boar	Javalí de Guerra	true
+units_custom_battle_mounts_mount_name_wh_grn_savage_bosswh_grn_savage_boss_boar	Javalí de Guerra	true
+units_custom_battle_mounts_localised_description_wh_grn_orc_bosswh_grn_orc_boss_boar	Estas bestias, grandes y agresivas como pocas, sólo pueden ser encontradas en los asperos y escabrosos terrenos de las Tierras Yermas.	true
+units_custom_battle_mounts_localised_description_wh_grn_savage_bosswh_grn_savage_boss_boar	Estas bestias, grandes y agresivas como pocas, sólo pueden ser encontradas en los asperos y escabrosos terrenos de las Tierras Yermas.	true

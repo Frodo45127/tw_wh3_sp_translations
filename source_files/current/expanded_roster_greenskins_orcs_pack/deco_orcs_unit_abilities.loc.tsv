@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/db/deco_orcs_unit_abilities.loc		
+unit_abilities_onscreen_name_wh_main_unit_passive_aggression	Brute Aggression	true
+unit_abilities_tooltip_text_wh_main_unit_passive_aggression	The battle-hardened Big Bosses are known for their brutal attacks. 	true
+unit_abilities_onscreen_name_wh_main_unit_passive_fury	Wild Fury	true
+unit_abilities_tooltip_text_wh_main_unit_passive_fury	The ferocity of Savage Orc Big Bosses in battle is unmatched.	true

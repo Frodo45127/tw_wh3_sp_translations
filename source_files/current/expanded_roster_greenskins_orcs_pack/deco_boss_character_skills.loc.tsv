@@ -1,0 +1,14 @@
+key	text	tooltip
+#Loc;1;text/db/deco_boss_character_skills.loc		
+character_skills_localised_name_grn_passive_aggression	Brute Aggression	true
+character_skills_localised_name_grn_passive_fury	Wild Fury	true
+character_skills_localised_description_grn_passive_aggression	The battle-hardened Big Bosses are known for their brutal attacks. 	true
+character_skills_localised_description_grn_passive_fury	The ferocity of Savage Orc Big Bosses in battle is unmatched.	true
+character_skills_localised_name_wh_main_skill_grn_orc_boss_boar	War Boar	true
+character_skills_localised_name_wh_main_skill_grn_savage_boss_boar	War Boar	true
+character_skills_localised_description_wh_main_skill_grn_orc_boss_boar	The War Boars can be found almost exclusively in the harsh rugged regions of the Badlands.	true
+character_skills_localised_description_wh_main_skill_grn_savage_boss_boar	The War Boars can be found almost exclusively in the harsh rugged regions of the Badlands.	true
+character_skills_localised_description_wh2_dlc15_skill_grn_champion_unique_orc_boss_gather_da_boyz	"Let's get 'em, boyz!"	true
+character_skills_localised_name_wh2_dlc15_skill_grn_champion_unique_orc_boss_gather_da_boyz	Gather da Boyz!	true
+character_skills_localised_name_wh2_dlc15_skill_grn_champion_unique_savage_orc_boss_gather_da_boyz	Gather da Tribez!	true
+character_skills_localised_description_wh2_dlc15_skill_grn_champion_unique_savage_orc_boss_gather_da_boyz	"Take no prisoners, boyz!"	true

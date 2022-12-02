@@ -1,0 +1,15 @@
+key	text	tooltip
+#Loc;1;text/db/deco_orcs_land_units.loc		
+land_units_onscreen_name_grn_inf_black_orc_shields	Black Orcs	true
+land_units_onscreen_name_grn_inf_black_orc_dual	Black Orcs (Dual Weapons)	true
+land_units_onscreen_name_wh_main_grn_inf_black_orcs	Black Orcs (Great Weapons)	true
+land_units_onscreen_name_wh_dlc06_grn_inf_krimson_killerz_0	Krimson Killerz (Black Orcs - Dual Weapons)	true
+land_units_onscreen_name_wh_grn_orc_boss	Orc Big Boss	true
+land_units_onscreen_name_grn_inf_orc_boyz_spear	Orc Boyz (Spears)	true
+land_units_onscreen_name_grn_mon_savage_giant	Savage Giant	true
+land_units_onscreen_name_wh_grn_savage_boss	Savage Orc Big Boss	true
+land_units_onscreen_name_grn_inf_savage_big_great	Savage Orc Big 'Uns (Clubs)	true
+land_units_onscreen_name_grn_inf_savage_orc_spear	Savage Orcs (Spears)	true
+land_units_onscreen_name_wh_grn_orc_boss_boar	Orc Big Boss	true
+land_units_onscreen_name_wh_grn_savage_boss_boar	Savage Orc Big Boss	true
+land_units_onscreen_name_grn_big_uns_shields	Orc Big 'Uns (Shields)	true

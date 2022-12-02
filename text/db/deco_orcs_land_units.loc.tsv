@@ -1,0 +1,15 @@
+key	text	tooltip
+#Loc;1;text/db/deco_orcs_land_units.loc		
+land_units_onscreen_name_grn_inf_black_orc_shields	Orkoz Negroz	true
+land_units_onscreen_name_grn_inf_black_orc_dual	Orkoz Negroz (armas dobles)	true
+land_units_onscreen_name_wh_main_grn_inf_black_orcs	Orkoz Negroz (armas a dos manos)	true
+land_units_onscreen_name_wh_dlc06_grn_inf_krimson_killerz_0	Los Azezinoz Karmezí (Orcos Negros - armas dobles)	true
+land_units_onscreen_name_wh_grn_orc_boss	Gran Jefe Orco	true
+land_units_onscreen_name_grn_inf_orc_boyz_spear	Guerreroz Orkoz (lanzas)	true
+land_units_onscreen_name_grn_mon_savage_giant	Gigante Zalvaje	true
+land_units_onscreen_name_wh_grn_savage_boss	Gran Jefe Orco Zalvaje	true
+land_units_onscreen_name_grn_inf_savage_big_great	Orkoz Zalvajez Grandotez (garrotes)	true
+land_units_onscreen_name_grn_inf_savage_orc_spear	Orkoz Zalvajez (lanzas)	true
+land_units_onscreen_name_wh_grn_orc_boss_boar	Gran Jefe Orco	true
+land_units_onscreen_name_wh_grn_savage_boss_boar	Gran Jefe Orco Zalvaje	true
+land_units_onscreen_name_grn_big_uns_shields	Grandotez Orkoz (escudos)	true

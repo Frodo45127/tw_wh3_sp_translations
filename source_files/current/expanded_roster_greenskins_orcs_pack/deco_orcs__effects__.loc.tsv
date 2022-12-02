@@ -1,0 +1,7 @@
+key	text	tooltip
+#Loc;1;text/db/deco_orcs__effects__.loc		
+effects_description_passive_aggression	Ability "Brute Aggression"	true
+effects_description_passive_fury	Ability "Wild Fury"	true
+effects_description_wh2_pro09_effect_agent_cap_increase_black_orc_big_boss	Hero capacity: %+n for Orc Big Bosses	true
+effects_description_wh2_pro09_effect_agent_enable_recruitment_black_orc_big_boss	Unlocks [[img:icon_hero]][[/img]]Hero recruitment: Orc Big Bosses	true
+effects_description_deco_effect_agent_recruitment_xp_champion_grn	Hero recruit rank: %+n for Orc Big Bosses	true

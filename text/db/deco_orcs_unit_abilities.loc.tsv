@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/db/deco_orcs_unit_abilities.loc		
+unit_abilities_onscreen_name_wh_main_unit_passive_aggression	Agresión brutal	true
+unit_abilities_tooltip_text_wh_main_unit_passive_aggression	Los aguerridos Grandes Jefes son conocidos por sus brutales ataques.	true
+unit_abilities_onscreen_name_wh_main_unit_passive_fury	Furia salvaje	true
+unit_abilities_tooltip_text_wh_main_unit_passive_fury	La ferocidad de los Grandes jefes Orcos Zalvajes en batalla es inigualable.	true

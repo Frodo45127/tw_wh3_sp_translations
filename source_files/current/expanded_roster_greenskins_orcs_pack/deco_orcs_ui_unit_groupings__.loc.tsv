@@ -1,0 +1,4 @@
+key	text	tooltip
+#Loc;1;text/db/deco_orcs_ui_unit_groupings__.loc		
+ui_unit_groupings_onscreen_deco_grn_orc_bigboss	Melee Specialist	true
+ui_unit_groupings_tooltip_deco_grn_orc_bigboss	Orcs are led by the biggest and brawniest of their kind.	true

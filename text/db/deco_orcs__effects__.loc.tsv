@@ -1,0 +1,7 @@
+key	text	tooltip
+#Loc;1;text/db/deco_orcs__effects__.loc		
+effects_description_passive_aggression	Habilidad "Agresión brutal"	true
+effects_description_passive_fury	Habilidad "Furia salvaje"	true
+effects_description_wh2_pro09_effect_agent_cap_increase_black_orc_big_boss	Capacidad de héroe: %+n para Grandes Jefes Orcos	true
+effects_description_wh2_pro09_effect_agent_enable_recruitment_black_orc_big_boss	Desbloquea el reclutamiento del [[img:icon_hero]][[/img]]héroe: Grandes Jefes Orcos	true
+effects_description_deco_effect_agent_recruitment_xp_champion_grn	Rango del héroe al reclutarlo: %+n a los Grandes Jefes Orcos	true

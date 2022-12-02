@@ -1,0 +1,13 @@
+key	text	tooltip
+#Loc;1;text/db/deco_orcs_unit_description_short_texts.loc		
+unit_description_short_texts_text_wh_main_unit_short_text_grn_inf_savage_big_great	La verdadera élite de los Orkoz Zalvajez. Portan grandes garrotes para partir craneoz.	true
+unit_description_short_texts_text_wh_grn_orc_boss	Los Orcos están liderados por los mas grandes y musculosos de su especie.	true
+unit_description_short_texts_text_wh_main_unit_short_text_wh_grn_orc_boss_boar	Los Orcos están liderados por los mas grandes y musculosos de su especie.	true
+unit_description_short_texts_text_wh_main_unit_short_text_grn_inf_orc_boyz_spear	Los Guerreroz Orkoz llaman a todas las armas "Rebanadoraz", incluso a las puntiagudas.	true
+unit_description_short_texts_text_savage_giant	Si un gigante se encuentra en medio de una horda de Orkoz Zalvajez adoptará sus costumbres y le serán dadas pinturas de guerra.	true
+unit_description_short_texts_text_wh_main_unit_short_text_grn_inf_black_orc_dual	Dale a un Orko Negro dos armas, y observa como la carnicería se multiplica por dos.	true
+unit_description_short_texts_text_wh_main_unit_short_text_grn_inf_savage_orc_spear	Incluso con primitivos escudos de madera y lanzas reforzadas con huesos, estos brutos salvajes estan "liztoz pa dezguazar".	true
+unit_description_short_texts_text_savage_orc_boss	Aprisionado por sus enormes y abultados músculos, el Gran jefe Orco Zalvaje avanza en el campo de batalla desmembrando y decapitando todo a su paso.	true
+unit_description_short_texts_text_wh_main_unit_short_text_grn_inf_black_orc_shields	"A vezez lo que un chico nezezita ez alguien que pueda rezibir una paliza, ¡y devolverla! ¡Nezezitan a alguien con un buen par de colmilloz! ¡Nezezitan a un Orko Negro!"	true
+update	update	false
+update2	update2	false
