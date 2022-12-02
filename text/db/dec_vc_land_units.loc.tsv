@@ -1,0 +1,8 @@
+key	text	tooltip
+#Loc;1;text/db/dec_vc_land_units.loc		
+land_units_onscreen_name_dec_lahmian	Siervas de Lahmia	true
+land_units_onscreen_name_dec_hell_knights	Caballeros Infernales	true
+land_units_onscreen_name_dec_reapers	Esqueletos Segadores	true
+land_units_onscreen_name_dec_grave_halbs	Guardia de los Túmulos (alabardas)	true
+land_units_onscreen_name_dec_spirit_host	Hueste de Espíritus	true
+land_units_onscreen_name_dec_kastellans	Caballeros Sangrientos Castellanos	true

@@ -4,5 +4,9 @@ Los archivos de source_files son los loc originales de la ultima vez que se trad
 
 Mods traducidos:
 - Dynamic Disasters (parcial).
+- Expanded Roster - Beastmen Pack (parcial).
+- Expanded Roster - Dark Elves Pack (parcial).
 - Expanded Roster - Greenskins - Orks Pack (completa).
+- Expanded Roster - Greenskins - Goblin Pack (parcial).
+- Expanded Roster - Vampire Counts Pack (parcial).
 - River Ruin Sea Lane (completa).

@@ -1,0 +1,4 @@
+key	text	tooltip
+#Loc;1;text/db/deco_forest_goblin_agent_subtypes.loc		
+agent_subtypes_description_text_override_wh_grn_forest_goblin_warboss	The leaders of the Spider Kults are even more cunning than the regular Goblin Warbosses.	true
+agent_subtypes_onscreen_name_override_wh_grn_forest_goblin_warboss	Forest Goblin Warboss	true

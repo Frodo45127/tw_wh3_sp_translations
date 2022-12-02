@@ -1,0 +1,9 @@
+key	text	tooltip
+#Loc;1;text/db/deco_goblins_unit_description_short_texts.loc		
+unit_description_short_texts_text_colossal_squig	The squig is a ferocious beast, and one will never stop growing.The largest amongst them are called colossal squigs.	true
+unit_description_short_texts_text_grn_inf_hill_goblins	South of the Empire lies a barren plain of hills at the edge of the Badlands. It is there that the largest of all Goblins can be found known as Hill Goblins.They’re as nasty as Orcs and as vicious.	true
+unit_description_short_texts_text_wh_main_unit_short_text_grn_inf_night_goblin_spears	Night goblins who prefer to stab from a longer distance then their sword friends.	true
+unit_description_short_texts_text_wh_main_unit_short_text_grn_inf_forest_sword	Armed with a poison sword and tribal shield, these small gobbos form the backbone of the Forest Goblin infantry.	true
+unit_description_short_texts_text_wh_main_unit_short_text_grn_inf_forest_spear	Used more to support troops than fight head on, these gobbos happily trust their pointies in the enemies back.	true
+unit_description_short_texts_text_wh_main_unit_short_text_grn_inf_forest_bow	The skirmishers of the Forest Goblins screen the fields and soften the enemy with a rain of arrows before the real fighting begins.	true
+unit_description_short_texts_text_wh_main_unit_short_text_grn_inf_snotling	These "Gretchin" are mostlly used as servants in the greenskin society. In battle, they rely on their small size and sheer numbers to swarm the enemy.	true

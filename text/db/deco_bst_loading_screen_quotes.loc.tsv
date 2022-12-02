@@ -1,0 +1,8 @@
+key	text	tooltip
+#Loc;1;text/db/deco_bst_loading_screen_quotes.loc		
+loading_screen_quotes_bulletpoints_bestigor_dual_axe	[[img:ui/skins/default/icon_stat_armour.png]][[/img]]Acorazado	true
+loading_screen_quotes_description_bestigor_dual_axe	Blessed with spectacular horns and raw physical power, Bestigors put others of their kind to shame.	true
+loading_screen_quotes_title_bestigor_dual_axe	Rebaño de Bestigors (armas a dos manos)	true
+loading_screen_quotes_bulletpoints_gor_great_axe	[[img:ui/skins/default/modifier_icon_armour_piercing.png]][[/img]]Poder perforante	true
+loading_screen_quotes_description_gor_great_axe	Grabbing the nearest heavy weapon, the Gors are sent into the fray with animalistic rage.	true
+loading_screen_quotes_title_gor_great_axe	Rebaño de Gors (armas a dos manos)	true

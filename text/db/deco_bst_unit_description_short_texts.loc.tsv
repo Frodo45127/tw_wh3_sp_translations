@@ -1,0 +1,7 @@
+key	text	tooltip
+#Loc;1;text/db/deco_bst_unit_description_short_texts.loc		
+unit_description_short_texts_text_gor_great_axe	Grabbing the nearest heavy weapon, the Gors are sent into the fray with animalistic rage.	true
+unit_description_short_texts_text_bestigor_dual_axe	Blessed with spectacular horns and raw physical power, Bestigors put others of their kind to shame.	true
+unit_description_short_texts_text_gouge_horns	The Bestigor Champions keep trophies of enemies on them to inspire fear.	true
+update	update	false
+update2	update2	false

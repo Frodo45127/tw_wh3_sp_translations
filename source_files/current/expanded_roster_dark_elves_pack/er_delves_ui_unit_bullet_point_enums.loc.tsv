@@ -1,0 +1,4 @@
+key	text	tooltip
+#Loc;1;text/db/er_delves_ui_unit_bullet_point_enums.loc		
+ui_unit_bullet_point_enums_onscreen_name_dragon_breath_magma	Magma Dragon's Breath	true
+ui_unit_bullet_point_enums_tooltip_dragon_breath_magma	Magma Dragons are capable of producing a sulfurous poisoned flame said to be amongst the strongest of all Dragon breaths.	true

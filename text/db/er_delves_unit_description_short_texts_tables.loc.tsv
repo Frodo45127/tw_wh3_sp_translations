@@ -1,0 +1,7 @@
+key	text	tooltip
+#Loc;1;text/db/er_delves_unit_description_short_texts_tables.loc		
+unit_description_short_texts_text_magma_dragon	Primordial and ferocious creatures, Magma Dragons are amongst the most malevolent and reclusive of the Dragon race.	true
+unit_description_short_texts_text_tower_masters	A few Dark Elves choose to remain as Black Guard beyond the 200 years. The greatest of these are called the Tower Masters.	true
+unit_description_short_texts_text_lords_oblivion	High ranking officers of the Black Guard who were granted dragon steeds as rewards for loyalty.	true
+unit_description_short_texts_text_hunters_anath_raema	Indiscriminate hunters who dedicate their lives to the Savage Huntress.	true
+update	update	false

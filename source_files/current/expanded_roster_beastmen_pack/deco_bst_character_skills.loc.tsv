@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/db/deco_bst_character_skills.loc		
+character_skills_localised_name_wh_bst_undying_malice	Undying Malice	true
+character_skills_localised_name_wh_bst_rallying_scream	Rallying Scream	true
+character_skills_localised_description_wh_bst_undying_malice	"I... See... Man-filth..."	true
+character_skills_localised_description_wh_bst_rallying_scream	Wargors hold a deep, savage control over their underlings.	true

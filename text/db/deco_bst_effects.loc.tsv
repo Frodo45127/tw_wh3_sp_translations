@@ -1,0 +1,4 @@
+key	text	tooltip
+#Loc;1;text/db/deco_bst_effects.loc		
+effects_description_undying_malice_enable	Ability "Undying Malice"	true
+effects_description_rallying_scream_enable	Ability "Rallying Scream"	true

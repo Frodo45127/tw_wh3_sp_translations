@@ -1,0 +1,7 @@
+key	text	tooltip
+#Loc;1;text/db/deco_forest_goblin_effects.loc		
+effects_description_wh_main_effect_enable_mount_forest_giant_spider	Mount: Arachnarok Spider	true
+effects_description_wh_dlc06_effect_attack_increase_spider_riders	Melee attack: %+n for Spider Rider units	true
+effects_description_wh_dlc06_effect_charge_increase_spider_riders	Charge bonus: %+n for Spider Rider units	true
+effects_description_wh_main_effect_force_army_forest_goblins_melee_damage	Weapon strength: %+n% for Goblins, Forest Goblins and Spider Rider units	true
+effects_description_wh_main_effect_force_unit_stat_morale_forest_goblins	Leadership: %+n  for Goblins, Forest Goblins and Spider Rider units	true

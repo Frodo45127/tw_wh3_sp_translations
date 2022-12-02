@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/db/deco_forest_goblin_ancillaries.loc		
+ancillaries_colour_text_wh_main_anc_mount_grn_forest_goblin_warboss_spider	Giant Spiders are deadly hunters, easily capable of ensnaring and overwhelming a fully-grown man. 	true
+ancillaries_onscreen_name_wh_main_anc_mount_grn_forest_goblin_warboss_spider	Giant Spider	true
+ancillaries_colour_text_wh_main_anc_mount_grn_forest_goblin_warboss_giant_spider	When fully grown, these Gigantic Spiders are prized as revered mounts for a Goblin tribe's mightiest warriors.	true
+ancillaries_onscreen_name_wh_main_anc_mount_grn_forest_goblin_warboss_giant_spider	Arachnarok Spider	true

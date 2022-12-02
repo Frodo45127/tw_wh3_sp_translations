@@ -1,0 +1,4 @@
+key	text	tooltip
+#Loc;1;text/db/er_delves_ui_unit_bullet_point_enums.loc		
+ui_unit_bullet_point_enums_onscreen_name_dragon_breath_magma	Aliento del Dragón de Magma	true
+ui_unit_bullet_point_enums_tooltip_dragon_breath_magma	Los Dragones de Magma son capaces de producir una llama sulfúrica envenenada con su aliento, el cual se dice que está entre los más poderosos aliendos dracónicos.	true

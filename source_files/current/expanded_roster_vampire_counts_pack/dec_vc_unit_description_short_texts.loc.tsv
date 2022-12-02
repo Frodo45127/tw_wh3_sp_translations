@@ -1,0 +1,8 @@
+key	text	tooltip
+#Loc;1;text/db/dec_vc_unit_description_short_texts.loc		
+unit_description_short_texts_text_dec_lahmian	The handmaidens of Queen Neferata herself; as beautiful as deadly.	true
+unit_description_short_texts_text_dec_hell_knights	The elite of the Black Knights bringing death from the skies on top of their skeletal hellsteeds. 	true
+unit_description_short_texts_text_dec_reapers	The animated remains of long dead warriors, Skeletons rise from the grave to serve their Master. They are slow, but relentless, marching ever on and on.	true
+unit_description_short_texts_text_dec_spirit_host	A horde of ethereal ghosts and vengeful apparitions that drift towards their warm-blooded victims with terrible inevitability.	true
+unit_description_short_texts_text_dec_kastellans	Champions of the Blood Knights, the Kastellans are nigh indestructible, riding with fangs bared through storms of arrow and shot.	true
+update	update	false

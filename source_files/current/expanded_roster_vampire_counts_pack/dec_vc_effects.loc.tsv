@@ -1,0 +1,43 @@
+key	text	tooltip
+#Loc;1;text/db/dec_vc_effects.loc		
+effects_description_wh2_dlc11_vmp_skill_battle_units_magic_resist_vets_zombies_skeletons_grave_guard_cairn_wraiths	Magic resistance: %n% for Zombies, Skeletons, Grave Guard, Spirit Hosts and Cairn Wraiths units {{tr:rank7}}	true
+effects_description_wh2_dlc11_vmp_skill_battle_units_weapon_strength_vets_zombies_skeletons_grave_guard_cairn_wraiths	Weapon strength: %+n% for Zombies, Skeletons, Grave Guard, Spirit Hosts and Cairn Wraiths units {{tr:rank7}}	true
+effects_description_wh2_dlc11_vmp_skill_battle_units_melee_attack_vets_zombies_skeletons_grave_guard_cairn_wraiths	Melee attack: %+n for Zombies, Skeletons, Grave Guard, Spirit Hosts and Cairn Wraiths units {{tr:rank7}}	true
+effects_description_wh_main_effect_tech_upkeep_reduction_wraiths	Upkeep: %+n% for Spirit Hosts, Cairn Wraiths and Hex Wraiths units	true
+effects_description_wh_main_effect_tech_melee_damage_increase_wraiths	Weapon strength: %+n% for Spirit Hosts, Cairn Wraiths and Hex Wraiths units	true
+effects_description_wh2_dlc11_vmp_skill_battle_units_magic_resist_cairn_wraith_hex_wraith	Magic resistance: %n% for Spirit Hosts, Cairn Wraiths and Hex Wraiths units	true
+effects_description_wh_main_effect_tech_recruitment_cost_reduction_wraiths	Recruitment cost: %+n% for Spirit Hosts, Cairn Wraiths and Hex Wraiths units	true
+effects_description_wh2_dlc11_vmp_skill_battle_units_melee_attack_cairn_wraith_hex_wraith	Melee attack: %+n for Spirit Hosts, Cairn Wraiths and Hex Wraiths units	true
+effects_description_wh_main_effect_tech_unit_xp_levels_wraiths	Recruit rank: %+n for Spirit Hosts, Cairn Wraiths and Hex Wraiths units	true
+effects_description_wh_main_effect_tech_unit_xp_levels_graveguard_black_knights	Recruit rank: %+n for Grave Guard, Black Knights and Hell Knight units	true
+effects_description_wh2_dlc11_vmp_skill_special_blood_dragon_unit_upkeep_reduction_black_knights	Upkeep: %+n% for Black Knights and Hell Knight units	true
+effects_description_wh2_dlc11_vmp_skill_battle_units_speed_black_knights_blood_knights	Speed: %+n% for Black Knights, Hell Knights and Blood Knights units	true
+effects_description_wh2_main_effect_resource_upkeep_cost_reduction_vmp_graveguard_knights	Upkeep: %+n% for Grave Guard, Black Knights, Hell Knights and Blood Knights units	true
+effects_description_wh2_main_effect_resource_recruitment_cost_reduction_vmp_graveguard_knights	Recruitment cost: %+n% for Grave Guard, Black Knights, Hell Knights and Blood Knights units	true
+effects_description_wh_main_effect_tech_melee_damage_increase_graveguard_black_knights	Weapon strength: %+n% for Grave Guard, Black Knights and Hell Knight units	true
+effects_description_wh_main_effect_tech_armour_increase_grave_guard_black_knights	Armour: %+n for Grave Guard, Black Knights and Hell Knight units	true
+effects_description_wh_main_effect_tech_recruitment_cost_reduction_graveguard_black_knights	Recruitment cost: %+n% for Grave Guard, Black Knights and Hell Knight units	true
+effects_description_wh2_dlc11_vmp_skill_battle_units_armour_black_knights_blood_knights	Armour: %+n for Black Knights, Hell Knights and Blood Knights units	true
+effects_description_wh2_dlc11_vmp_skill_battle_units_charge_black_knights_blood_knights	Charge bonus: %+n for Black Knights, Hell Knights and Blood Knights units	true
+effects_description_wh_main_effect_tech_upkeep_reduction_black_knights_grave_guard	Upkeep: %+n% for Grave Guard, Black Knights and Hell Knight units	true
+effects_description_wh2_main_effect_resource_unit_xp_levels_vmp_graveguard_knights	Recruit rank: %+n for Grave Guard, Black Knights, Hell Knights and Blood Knights units	true
+effects_description_wh2_dlc11_vmp_skill_battle_units_melee_attack_black_knights_blood_knights	Melee attack: %+n for Black Knights, Hell Knights and Blood Knights units	true
+effects_description_wh2_dlc11_effect_skill_physical_resistance_crypt_ghouls_horrors	Physical resistance: %n% Crypt Ghouls, Crypt Horrors and Handmaiden units	true
+effects_description_wh2_dlc11_vmp_skill_battle_units_melee_attack_zombies_skeletons_ghouls_grave_guard	Melee attack: %+n for Zombies, Skeletons, Crypt Ghouls, Handmaidens and Grave Guard units	true
+effects_description_wh2_dlc11_vmp_skill_battle_units_melee_defence_zombies_skeletons_ghouls_grave_guard	Melee defence: %+n for Zombies, Skeletons, Crypt Ghouls, Handmaidens and Grave Guard units	true
+effects_description_wh2_dlc11_effect_skill_upkeep_cost_reduction_crypt_ghouls	Upkeep: %+n% for Crypt Ghouls and Handmaiden units	true
+effects_description_wh2_dlc11_effect_skill_rank_increase_crypt_ghouls	Recruit rank: %+n for Crypt Ghouls and Handmaiden units	true
+effects_description_wh2_dlc11_vmp_skill_battle_units_physical_resist_vets_crypt_horrors_ghouls_dire_wolves_varghulfs	Physical resistance: %n% for Crypt Ghouls, Crypt Horrors, Handmaidens, Dire Wolves and Varghulfs units {{tr:rank7}}	true
+effects_description_wh_main_effect_tech_unit_xp_levels_crypt_ghouls_horrors	Recruit rank: %+n for Crypt Ghouls, Crypt Horrors and Handmaiden units	true
+effects_description_wh2_dlc11_vmp_skill_battle_units_weapon_strength_vets_crypt_horrors_ghouls_dire_wolves_varghulfs	Weapon strength: %+n% for Crypt Ghouls, Crypt Horrors, Handmaidens, Dire Wolves and Varghulfs units {{tr:rank7}}	true
+effects_description_wh2_dlc11_vmp_skill_battle_units_charge_zombies_skeletons_ghouls_grave_guard	Charge bonus: %+n for Zombies, Skeletons, Crypt Ghouls, Handmaidens and Grave Guard units	true
+effects_description_wh2_dlc11_vmp_skill_battle_units_melee_attack_vets_crypt_horrors_ghouls_dire_wolves_varghulfs	Melee attack: %+n for Crypt Ghouls, Crypt Horrors, Handmaidens, Dire Wolves and Varghulfs units {{tr:rank7}}	true
+effects_description_wh_main_effect_tech_melee_damage_increase_crypt_ghouls_horrors	Weapon strength: %+n% for Crypt Ghouls, Crypt Horrors and Handmaiden units	true
+effects_description_wh2_dlc10_effect_skill_melee_attack_increase_fell_bats_crypt_ghoul	Melee attack: %+n for Fell Bats, Crypt Ghouls and Handmaiden units	true
+effects_description_wh_main_effect_tech_upkeep_cost_reduction_crypt_ghouls_horrors	Upkeep: %+n% for Crypt Ghouls, Crypt Horrors and Handmaiden units	true
+effects_description_wh_main_effect_tech_recruitment_cost_reduction_crypt_ghouls_horrors	Recruitment cost: %+n% for Crypt Ghouls, Crypt Horrors and Handmaiden units	true
+effects_description_wh_main_effect_skill_melee_attack_increase_vmp_tier_1	Melee attack: %+n for Zombies, Skeletons, Crypt Ghouls and Handmaiden units	true
+effects_description_wh2_dlc11_vmp_skill_battle_units_speed_zombies_skeletons_ghouls_grave_guard	Speed: %+n% for Zombies, Skeletons, Crypt Ghouls, Handmaidens and Grave Guard units	true
+effects_description_wh2_dlc11_effect_skill_morale_increase_crypt_ghouls_horrors	Leadership: %+n for Crypt Ghouls, Handmaidens and Crypt Horrors units	true
+effects_description_wh_main_effect_skill_charge_bonus_increase_vmp_tier_1	Charge bonus: %+n for Zombies, Skeletons, Crypt Ghouls and Handmaiden units	true
+effects_description_wh2_dlc10_effect_skill_rank_increase_fell_bats_crypt_ghoul_dire_wolves_hexwraiths	Recruit rank: %+n for Fell Bats, Dire Wolves, Crypt Ghouls, Handmaidens and Hexwraiths units	true

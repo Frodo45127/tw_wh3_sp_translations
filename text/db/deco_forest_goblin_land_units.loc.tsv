@@ -1,0 +1,5 @@
+key	text	tooltip
+#Loc;1;text/db/deco_forest_goblin_land_units.loc		
+land_units_onscreen_name_wh_grn_forest_goblin_warboss	Forest Goblin Warboss	true
+land_units_onscreen_name_wh_grn_forest_goblin_warboss_spider	Forest Goblin Warboss	true
+land_units_onscreen_name_wh_grn_forest_goblin_warboss_giant_spider	Forest Goblin Warboss	true

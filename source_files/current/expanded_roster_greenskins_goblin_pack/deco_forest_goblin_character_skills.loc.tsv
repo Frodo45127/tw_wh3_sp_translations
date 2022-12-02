@@ -1,0 +1,10 @@
+key	text	tooltip
+#Loc;1;text/db/deco_forest_goblin_character_skills.loc		
+character_skills_localised_name_wh_main_skill_grn_forest_goblin_warboss_spider	Giant Spider	true
+character_skills_localised_name_wh_main_skill_grn_forest_goblin_warboss_giant_spider	Arachnarok Spider	true
+character_skills_localised_name_wh_dlc06_skill_grn_lord_battle_forest_spiders	Gods of the Forest	true
+character_skills_localised_name_wh_main_skill_grn_lord_battle_forest_goblins	Spider Kult	true
+character_skills_localised_description_wh_main_skill_grn_forest_goblin_warboss_spider	Giant Spiders are deadly hunters, easily capable of ensnaring and overwhelming a fully-grown man. 	true
+character_skills_localised_description_wh_main_skill_grn_forest_goblin_warboss_giant_spider	When fully grown, these Gigantic Spiders are prized as revered mounts for a Goblin tribe's mightiest warriors.	true
+character_skills_localised_description_wh_dlc06_skill_grn_lord_battle_forest_spiders	The Forest Goblins worship the Spiders as Gods of the Forest.	true
+character_skills_localised_description_wh_main_skill_grn_lord_battle_forest_goblins	A belligerent threat to all lumbering communities, the Forest Goblins often compete with other forest-dwelling races for territorial supremacy.	true

@@ -1,0 +1,5 @@
+key	text	tooltip
+#Loc;1;text/db/deco_bst_land_units.loc		
+land_units_onscreen_name_bestigor_dual_axe	Rebaño de Bestigors	true
+land_units_onscreen_name_gor_great_axe	Rebaño de Gors (armas a dos manos)	true
+land_units_onscreen_name_gouge_horns	Cornudos Destripadores	true

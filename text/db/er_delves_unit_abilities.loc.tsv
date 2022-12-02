@@ -1,0 +1,4 @@
+key	text	tooltip
+#Loc;1;text/db/er_delves_unit_abilities.loc		
+unit_abilities_onscreen_name_magma_dragon_breath	Aliento del Dragón de Magma	true
+unit_abilities_tooltip_text_magma_dragon_breath	Una llama sulfúrica envenada que inflige horripilantes quemaduras.	true

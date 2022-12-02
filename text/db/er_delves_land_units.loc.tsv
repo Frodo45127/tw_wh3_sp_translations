@@ -1,0 +1,6 @@
+key	text	tooltip
+#Loc;1;text/db/er_delves_land_units.loc		
+land_units_onscreen_name_magma_dragon	Dragón de Magma	true
+land_units_onscreen_name_tower_masters	Maestros de la Torre	true
+land_units_onscreen_name_lords_oblivion	Señores de Oblivion	true
+land_units_onscreen_name_hunters_anath_raema	Cazadores de Anath Raema	true

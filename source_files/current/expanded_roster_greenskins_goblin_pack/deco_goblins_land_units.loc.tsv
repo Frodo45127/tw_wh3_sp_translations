@@ -1,0 +1,10 @@
+key	text	tooltip
+#Loc;1;text/db/deco_goblins_land_units.loc		
+land_units_onscreen_name_armored_colossal_squig	Armored Colossal Squig	true
+land_units_onscreen_name_colossal_squig	Colossal Squig	true
+land_units_onscreen_name_grn_inf_hill_goblins	Hill Goblins	true
+land_units_onscreen_name_grn_inf_forest_bow	Forest Goblins (Bows)	true
+land_units_onscreen_name_grn_inf_forest_spear	Forest Goblins (Spears)	true
+land_units_onscreen_name_grn_inf_forest_sword	Forest Goblins	true
+land_units_onscreen_name_grn_inf_night_goblin_spears	Night Goblins (Spears)	true
+land_units_onscreen_name_grn_inf_snotling	Snotlings	true

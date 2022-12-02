@@ -1,0 +1,8 @@
+key	text	tooltip
+#Loc;1;text/db/dec_vc_land_units.loc		
+land_units_onscreen_name_dec_lahmian	Lahmian Handmaidens	true
+land_units_onscreen_name_dec_hell_knights	Hell Knights	true
+land_units_onscreen_name_dec_reapers	Skeleton Reapers	true
+land_units_onscreen_name_dec_grave_halbs	Grave Guard (Halberds)	true
+land_units_onscreen_name_dec_spirit_host	Spirit Hosts	true
+land_units_onscreen_name_dec_kastellans	Blood Knight Kastellans	true

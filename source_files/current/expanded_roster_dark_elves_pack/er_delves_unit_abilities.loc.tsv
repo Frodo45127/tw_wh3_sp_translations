@@ -1,0 +1,4 @@
+key	text	tooltip
+#Loc;1;text/db/er_delves_unit_abilities.loc		
+unit_abilities_onscreen_name_magma_dragon_breath	Magma Dragon's Breath	true
+unit_abilities_tooltip_text_magma_dragon_breath	A sulfurous poisoned flame that inflicts horrific burns.	true
