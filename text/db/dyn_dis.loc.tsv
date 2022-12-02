@@ -36,7 +36,7 @@ mct_dyn_dis_vampires_rise_enable	Activar desastre "Ascensión vampírica" (Vanil
 mct_dyn_dis_vampires_rise_enable_tooltip	Activa/desactiva el desastre "Ascensión vampírica" (Vanilla).\\n\\Se puede desactivar tranquilamente en mitad de una campaña, pero si ya has recibido el primer aviso, el desastre continuara.	true
 mct_dyn_dis_waaagh_enable	Activar desastre "¡El ¡Waaagh! máz grande!" (Vanilla)	true
 mct_dyn_dis_waaagh_enable_tooltip	Activa/desactiva el desastre "¡El ¡Waaagh! máz grande!" (Vanilla).\\n\\nSe puede desactivar tranquilamente en mitad de una campaña, pero si ya has recibido el primer aviso, el desastre continuara.	true
-mct_dyn_dis_wild_hunt_enable	Activar desastre  "La Cacería Salvaje" (Vanilla)	true
+mct_dyn_dis_wild_hunt_enable	Activar desastre "La Cacería Salvaje" (Vanilla)	true
 mct_dyn_dis_chaos_invasion_enable_tooltip	Activa/desactiva el desastre "Invasión del Caos". \\n\\nEl Caos se alza en el norte. Los demonios recorren la tierra otrora segura, y la corrupción se extiende con el viento. ¿Serás capaz de resistir contral la marea del Caos y salvar el mundo?\\n\\nSe puede desactivar tranquilamente en mitad de una campaña, pero si ya has recibido el primer aviso, el desastre continuara.	true
 mct_dyn_dis_raiding_parties_enable	Activar desastre "Asaltos costeros"	true
 mct_dyn_dis_raiding_parties_enable_tooltip	Activa/desactiva el desastre "Asaltos costeros".\\n\\nLos mares del mundo entero están plagados de esclavizadores elfos oscuros, asaltantes de tribus norse, y vampiros de las profundidades. Solo... intenta no atraer su atención.\\n\\nSe puede desactivar tranquilamente en mitad de una campaña, pero si ya has recibido el primer aviso, el desastre continuara.	true
